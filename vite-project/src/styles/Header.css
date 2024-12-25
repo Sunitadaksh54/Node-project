@@ -1,0 +1,26 @@
+.header {
+    background-color:rgb(34, 31, 31);
+    color: white;
+    padding: 15px 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: white;
+  }
+  
+  .header nav a {
+    color: white;
+    margin-left: 15px;
+    padding: 5px;
+    font-size: 1.2rem;
+  }
+  
+  .header nav a:hover {
+    background-color: brown;
+  }
+  
